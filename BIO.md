@@ -1,32 +1,18 @@
-### Hi, I'm Hai Dang 👋
+# Professional Bio — Hai Dang
 
-**Head of People Experience @ SKF** · Entrepreneur · HR Leader
+## Introduction
 
----
+Hai Dang is **Head of People Experience at SKF** and a **VEMBA candidate at the Shidler College of Business, University of Hawai'i at Mānoa**. An entrepreneur and multi-dimensional HR leader, she brings **18+ years of cross-sector experience** across industrial, retail, entertainment, and manufacturing — sharpening her practical read on business needs and her creative approach to leadership.
 
-#### 🌱 About me
-I'm an entrepreneur and multi-dimensional HR leader with more than **18 years of cross-sector experience** spanning industrial, retail, entertainment, and manufacturing — environments that have sharpened my practical understanding of business needs and my creative approach to leadership.
+## Focus Areas
 
-#### 🎯 Focus Areas
-- **Corporate culture** — building cultures that create breakthroughs
-- **Change leadership** — guiding organizations through transformation
-- **People transformation** — developing leaders who can do the same for their teams
+Corporate culture, change leadership, and people transformation: **building cultures that create breakthroughs**, guiding organizations through change, and developing leaders who can do the same. Now extending into **corporate finance, capital markets, and international strategy** through the VEMBA program.
 
-#### 🏆 Experience
-- Currently leading the people experience agenda at **SKF**, one of the world's most established industrial brands
-- Shaped HR and transformation work across four distinct industries
-- Blend the rigor of corporate leadership with the agility of an entrepreneur
-- Approach every challenge grounded in the belief that *there is always more to learn*
+## Achievements
 
-#### 🚀 Goals
-- **Short-term —** advance how people experience drives business performance at SKF
-- **Long-term —** consult, contribute, and add value to any organization that treats its people as its most important asset
+Leads the people experience agenda at **SKF Vietnam**, part of a ~40,000-person global industrial MNC. Named **SKF Vietnam's Best Manager of the Year (2024)** and selected for SKF's international **LeadX program** in Pune, India (2023). Has shaped HR and transformation work across four distinct industries.
 
----
+## Goals
 
-#### 💛 Beyond work
-Proud mom of a wonderful daughter and wife to a hardworking husband — the family at the heart of it all.
-
----
-
-📫 **Let's connect** — open to conversations on culture, change, and people transformation.
+- **Short-term —** advance how people experience drives business performance at SKF.
+- **Long-term —** grow into an inspiring HR leader in a regional role — shaping cultures, developing leaders, and creating real, lasting impact for the organizations and people I serve.
