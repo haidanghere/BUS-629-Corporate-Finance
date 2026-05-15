@@ -22,7 +22,7 @@ I'm an entrepreneur and multi-dimensional HR leader with more than **18 years of
 
 #### 🚀 Goals
 - **Short-term —** advance how people experience drives business performance at SKF
-- **Long-term —** consult, contribute, and add value to any organization that treats its people as its most important asset
+- **Long-term —** grow into an inspiring HR leader in a regional role — shaping cultures, developing leaders, and creating real, lasting impact for the organizations and people I serve.
 
 ---
 
