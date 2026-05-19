@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Hai Dang is **Head of People Experience at SKF** and a **VEMBA candidate at the Shidler College of Business, University of Hawai'i at Mānoa**. An entrepreneur and multi-dimensional HR leader, she brings **18+ years of cross-sector experience** across industrial, retail, entertainment, and manufacturing — sharpening her practical read on business needs and her creative approach to leadership.
+Hai Dang is **Head of People Experience at SKF Vietnam** and a **VEMBA candidate at the Shidler College of Business, University of Hawai'i at Mānoa**. An entrepreneur and HR leader with **18+ years of cross-sector experience** across industrial, retail, entertainment, and manufacturing — combining a practical read on business needs with a people-first approach to leadership.
 
 ## Focus Areas
 
@@ -15,4 +15,4 @@ Leads the people experience agenda at **SKF Vietnam**, part of a ~40,000-person 
 ## Goals
 
 - **Short-term —** advance how people experience drives business performance at SKF.
-- **Long-term —** grow into an inspiring HR leader in a regional role — shaping cultures, developing leaders, and creating real, lasting impact for the organizations and people I serve.
+- **Long-term —** grow into an inspiring HR leader in a regional role — shaping cultures, developing leaders, and creating lasting impact for the organizations and people I serve.
