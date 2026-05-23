@@ -56,4 +56,40 @@ This file logs all substantive AI-assisted prompting used in this project, per S
 
 ---
 
+---
+
+## Stage 2 — Revision (post-professor feedback)
+
+**Tool:** Claude (Claude Code)
+**Date:** 2026-05-23
+**Purpose:** Revise Stage 2 memo in response to professor feedback: (1) only 2 clean hypotheses counted vs. 2–3 target; (2) prose word count ~844 vs. 400–600 target.
+
+### Prompt sequence
+
+**Prompt 9 — Diagnose feedback**
+> [Screenshot of professor feedback] bảng sau là feedback của giáo sư và điểm của stage 2, hãy tìm hiểu nguyên nhân vì sao điểm thấp và cần tìm cách fix nó để submit lại
+
+*Outcome:* LLM identified two root causes: (1) H1 and H3 both fell in the profitability category — professor only counted 2 distinct hypothesis categories; (2) H3 was not falsifiable in a meaningful sense ("adjusted ROCE closer to target than reported ROCE" is true by definition). Word count ~844 exceeded 400–600 target by ~250 words.
+
+**Prompt 10 — H3 reframe decision**
+> có thể làm rõ cái H3 thay vì thêm H4 ko
+
+*Outcome:* Author decided to reframe H3 into the Returns on Capital category (distinct from H1's profitability margins) rather than adding a fourth hypothesis. Rationale: professor target is 2–3 hypotheses; current count is already 3; fixing category overlap is sufficient.
+
+**Prompt 11 — Rewrite memo**
+> yes pls [confirm rewrite]
+
+*Outcome:* Memo rewritten with two changes: (1) H3 reframed from "adjusted vs. reported ROCE comparison" to a directional Returns on Capital hypothesis — "I expect ROCE to recover toward SKF's 14% target because Automotive exit removes low-return capital from the employed base" — with decomposition test (EBIT/Sales vs. Sales/Capital Employed) and explicit falsifiability condition; (2) prose cut from ~844 to ~530 words by removing repetition between Executive Summary and Background, trimming Method source details, and condensing Implications.
+
+### LLM contribution vs. author contribution (revision)
+
+| LLM did | Author verified / decided |
+|---|---|
+| Diagnosed why H3 was not counted as a clean hypothesis | Decided to fix H3 rather than add H4 |
+| Reframed H3 into Returns on Capital category | Confirmed the business logic (Automotive ROCE < Industrial) |
+| Identified repetitive passages causing word count overrun | Approved final word count and content cuts |
+| Rewrote memo to ~530 words | Reviewed all retained data for accuracy |
+
+---
+
 *Additional entries will be added for Stages 3–5.*
