@@ -1,3 +1,3 @@
 # docs/decisions/
 
-Records of key analytical and structural choices made during the project, with rationale — so a reviewer can understand *why*, not just *what*.
+Records of analytical and structural choices made during the project, each with rationale — so a reviewer can understand *why*, not just *what*. Two files live here: [`2026-05-18-dang-skf-selection.md`](2026-05-18-dang-skf-selection.md) is the Stage 2 company-selection memo (revised post-feedback in commit `5ea9292` — H3 reframed into Returns on Capital, prose trimmed to 530 words); [`2026-05-27-dang-stage2-feedback-response.md`](2026-05-27-dang-stage2-feedback-response.md) is the Stage 5 follow-up memo that documents how the Stage 2 feedback was addressed. Naming convention: `YYYY-MM-DD-dang-{slug}.md`. New decision memos go here, not in `deliverables/`.

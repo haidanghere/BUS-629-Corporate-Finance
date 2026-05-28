@@ -1,3 +1,3 @@
 # docs/
 
-Project documentation hub — covers decisions made, plans for each stage, specs for models, and reusable templates.
+Project documentation hub — decisions, specs, plans, and reusable templates. Three sub-directories carry the load: [`decisions/`](decisions/) holds the Stage 2 company-selection memo and the Stage 5 feedback-response memo (each captures *why* a choice was made, not just *what*); [`specs/`](specs/) holds the Stage 4 technical specification that pins down every named range, formula, and validation rule used downstream; [`templates/`](templates/) holds reusable starting points for memos and specs; [`plans/`](plans/) is intentionally lean — ad-hoc planning happens in commit messages and the prompt log rather than in static documents. All deliverables in this tree follow the project naming convention `YYYY-MM-DD-dang-{company}-{kind}.md`.

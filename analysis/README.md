@@ -1,3 +1,3 @@
 # analysis/
 
-Contains financial analysis scripts and output files — where raw data is processed into ratios, trends, and insights used across model deliverables.
+Analytical work products that sit between the source model and the narrative deliverables. The single sub-directory [`validation/`](validation/) holds cross-checks and human-in-the-loop iteration evidence — the Stage 4 HIL iteration (Round 1 → Round 2 spec self-audit) and the Stage 5 manual verification table (9 ratios recomputed by hand from the Stage 3 workbook and compared against the LLM raw output). All quantitative claims in `deliverables/` are expected to trace either to [`models/builds/2026-05-19-dang-skf-financials.xlsx`](../models/builds/2026-05-19-dang-skf-financials.xlsx) directly or to a verification artefact here. Naming convention: `YYYY-MM-DD-dang-{company}-{kind}.md`.

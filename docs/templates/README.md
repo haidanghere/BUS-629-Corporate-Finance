@@ -1,3 +1,3 @@
 # docs/templates/
 
-Reusable document templates for reports, memos, and write-ups — copy from here to keep formatting consistent across all deliverables.
+Reusable document templates for memos, specs, and other text deliverables. Copy from here to keep YAML frontmatter, section ordering, and naming conventions consistent across all stage deliverables. Templates align with the BUS-629 master conventions published by the course (see [`docs/templates/`](.) for the local working copies). When a deliverable is finalised, the populated copy is moved to its stage-appropriate directory (`docs/decisions/`, `docs/specs/`, `deliverables/`, etc.) and not left here. New templates added during the project should follow naming `{name}-template.md`.

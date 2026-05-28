@@ -1,3 +1,3 @@
 # models/
 
-All financial models built throughout BUS 629 — organized into active builds and starter templates ready to extend.
+All financial models built across BUS-629 — split into [`builds/`](builds/) (working, populated models tied to a specific stage deliverable) and [`templates/`](templates/) (empty starter scaffolds ready to extend). The single canonical model for this project is the Stage 3 build at [`builds/2026-05-19-dang-skf-financials.xlsx`](builds/2026-05-19-dang-skf-financials.xlsx) — a 6-tab workbook with FY2025/FY2024 Balance Sheet, FY2025 Income Statement, FY2025 Cash Flow Statement, a Ratios tab implementing the spec's 30-ratio framework with named ranges, and a Notes tab documenting sources and self-checks. Naming convention: `YYYY-MM-DD-dang-{company}-{kind}.xlsx`. Every numerical claim in Stage 4–5 deliverables traces back to this workbook.

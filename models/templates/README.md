@@ -1,3 +1,3 @@
 # models/templates/
 
-Starter templates and scaffolding for new financial models — begin here to ensure consistent structure, formula conventions, and labeling across all builds.
+Starter Excel templates and empty scaffolds ready to extend for new financial models. Contains [`performance-ratios-template.xlsx`](performance-ratios-template.xlsx) — the BUS-629 course-provided 30-ratio framework template that the Stage 3 SKF build at [`models/builds/`](../builds/) was populated from. Templates here preserve the original column ordering, named-range placeholders, and validation-rule cell positions used by the course master spreadsheet — do not overwrite or rename in place; copy to `builds/` first and work from the copy. Naming convention: `{kind}-template.xlsx`.
